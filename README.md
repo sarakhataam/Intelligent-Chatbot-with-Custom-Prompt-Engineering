@@ -1,8 +1,3 @@
-# Intelligent-Chatbot-with-Custom-Prompt-Engineering
-Here’s a version of the README written in the format of a README file:
-
----
-
 # Healthcare Chatbot using DialoGPT
 
 ## Overview
@@ -98,9 +93,4 @@ Chatbot: Lower back pain can be caused by muscle strain, poor posture, or long p
 - **Enhanced Conversational Flow**: Improve the model’s ability to manage longer, multi-turn conversations with better context retention.
 - **Integration**: Connect the chatbot with a web or mobile app interface for broader accessibility.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
----
-
-This README file provides a clear and professional overview of your project, guiding users on how to install, train, and use the healthcare chatbot.
