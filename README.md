@@ -70,14 +70,6 @@ with mlflow.start_run():
     trainer.train()
 ```
 
-## Usage
-Run the chatbot in interactive mode:
-
-```bash
-python chatbot.py
-```
-
-The chatbot will prompt you to ask health-related questions. Type your query, and it will respond with advice based on the conversation history.
 
 ## Example Conversation
 ```
@@ -87,6 +79,8 @@ Chatbot: I'm sorry to hear that. Make sure to stay hydrated and rest. If your he
 User: What are the possible causes of lower back pain?
 Chatbot: Lower back pain can be caused by muscle strain, poor posture, or long periods of sitting. If the pain continues, it’s best to consult a doctor for further evaluation.
 ```
+## Screen of Testing Prompt
+![image](https://github.com/user-attachments/assets/b319cedf-80c7-4d5b-9b55-3607373415c7)
 
 ## Future Improvements
 - **Model Expansion**: Fine-tune the model on more diverse datasets, including mental health conversations or specialized medical topics.
